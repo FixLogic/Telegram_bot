@@ -4,6 +4,8 @@ import datetime
 from texts import late_text, hello_text, bye_text
 from telebot import types
 
+
+# Код не пригоден для использования так как он специально сломан чтобы никто постороних им не воспользовался
 # pip install pytelegrambotapi
 token = '#'
 # date_ = datetime.datetime(2024,4,20,13,30)
